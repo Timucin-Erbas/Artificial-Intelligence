@@ -49,7 +49,7 @@ while True:
 #-------------------------------------------------------------------------------
 #  Have to normalize the data considering that the gradient descent algorithm
 #  will not work if one of the points in the data is far off from the other
-#  ones
+#  ones.
 #-------------------------------------------------------------------------------
 
 m = len(X)
