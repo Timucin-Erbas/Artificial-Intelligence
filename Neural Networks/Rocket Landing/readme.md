@@ -7,5 +7,5 @@ DataSet: https://www.kaggle.com/romainpessia/artificial-lunar-rocky-landscape-da
 <img height="350", src="https://user-images.githubusercontent.com/56005095/114437309-0a672700-9bcf-11eb-80fe-fed7359fe2ba.png" />
 <br>
 
-Article: not uploaded yet
-Video: not uploaded yet
+Article: https://timucin1erbas.medium.com/landing-rockets-using-ai-f9ac26f3adfb
+Video: https://www.youtube.com/watch?v=8skJN6Xa_QI&t=5s
